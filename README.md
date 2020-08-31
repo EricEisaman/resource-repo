@@ -5,7 +5,7 @@ ___
 
 ### Resource Topics
 
-[CS ](#-CS-Curriculum)
+[CS Curriculum](#-cs-curriculum)
 - Technology Articles
 - Learning Management Systems
 - Internet of Things (IoT)
