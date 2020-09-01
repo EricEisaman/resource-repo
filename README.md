@@ -14,7 +14,7 @@ ___
 
 ___
 
-# CS Curriculum
+### CS Curriculum
 
 -
 -
